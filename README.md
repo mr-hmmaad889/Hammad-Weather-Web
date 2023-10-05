@@ -55,7 +55,7 @@ If you have any suggestions, improvements, or bug fixes, feel free to submit a p
 
 For any questions or inquiries, please feel free to reach out. 
 
-NK :
+Hammad :
 
 [![linkedin](https://www.linkedin.com/in/hammad-mushtaq-5a9738239/)
 
